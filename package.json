@@ -1,7 +1,7 @@
 {
-  "name": "@bitgo-forks/ecpair",
-  "version": "0.0.0-semantic-release-managed",
-  "description": "Fork of ecpair with BitGo specific changes",
+  "name": "@runonflux/bitgo-ecpair",
+  "version": "1.0.1",
+  "description": "Fork of ecpair with BitGo and Zelcore specific changes",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
   "engines": {
